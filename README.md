@@ -1,4 +1,4 @@
-# Chapter 1 - Exercise 1
+# Chapter 2 - Exercise 1
 Write a program that converts Centigrade to Fahrenheit
 ### Test 1:
 ```
