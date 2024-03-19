@@ -1,5 +1,5 @@
 # Chapter 1 - Exercise 1
-Write a program that converts Centigrade to Fahrenheit:
+Write a program that converts Centigrade to Fahrenheit
 ### Test 1:
 ```
 Input a temperature (in Centigrade): 45
